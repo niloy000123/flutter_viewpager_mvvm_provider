@@ -1,16 +1,13 @@
-# flutter_viewpage_mvvm_provider
+# Flutter viewpage and bottom navigation bar Example With Provider
 
-A new Flutter project.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter pub run build_runner build --delete-conflicting-outputs
+flutter run
+```
 
-## Getting Started
+## Screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/niloy000123/flutter_viewpager_mvvm_provider/blob/main/assets/video-gif.gif" width="400px" />
