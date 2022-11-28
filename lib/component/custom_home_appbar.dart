@@ -16,10 +16,7 @@ class CustomHomeAppBar extends StatelessWidget {
             EdgeInsets.symmetric(horizontal: getProportionateScreenWidth(20)),
         height: double.infinity,
         width: double.infinity,
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [Text('View Pager')],
-        ),
+        child: const Center(child: Text('View Pager')),
       ),
     );
   }

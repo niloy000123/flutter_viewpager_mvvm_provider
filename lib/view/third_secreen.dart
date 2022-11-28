@@ -17,7 +17,7 @@ class ThirdScreen extends StatelessWidget {
             borderRadius: BorderRadius.circular(getProportionateScreenWidth(5)),
             color: const Color.fromARGB(255, 149, 242, 250).withOpacity(.4)),
         child: const Center(
-          child: Text('Third Page'),
+          child: Text('Mid Page'),
         ),
       ),
     );
